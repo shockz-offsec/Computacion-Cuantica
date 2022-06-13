@@ -79,6 +79,21 @@ Para ello y por orden:
 
 ## Versión en hardware real
 
-Consultar codigo "basic_circuit_real_hardware"
+En este caso el provider va a ser "ibm-q" y el sistema que usaré será "ibmq_santiago"
+
+En trabajo se encolará como se ve a continuación desde el dashboard de IBMQ
+
+![2022-06-13 22_08_54-IBM Quantum - Opera](https://user-images.githubusercontent.com/67438760/173441494-25a84bf1-2c56-4083-9f67-78eafd178075.png)
+
+![2022-06-13 22_09_04-Job 62a79917ad25a695c283188d - IBM Quantum - Opera](https://user-images.githubusercontent.com/67438760/173441549-e757c53d-eaa0-415b-b9e8-b1cf201ca8fe.png)
+
+Y para mi caso se obtuvieron estos resultados:
+
+![2022-06-13 22_34_50-basic_circuit copy - Jupyter Notebook - Opera](https://user-images.githubusercontent.com/67438760/173441613-105fe550-80f1-4b5e-88fe-b2343fbf9c8b.png)
+
+![2022-06-13 22_35_55-Job 62a79917ad25a695c283188d - IBM Quantum - Opera](https://user-images.githubusercontent.com/67438760/173441624-8c671327-bcb9-4e35-b2b6-1a6ee7e4a852.png)
+
+
+**Consultar código "basic_circuit_real_hardware"**
 
 
