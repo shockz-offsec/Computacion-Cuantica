@@ -61,6 +61,7 @@ Además debemos crear una cuenta en https://quantum-computing.ibm.com/login, ir 
 
 # Consultar Notebook
 
+## Versión en simulador
 Este código pone un qubit en superposición en un dispositivo real de computación cuántica.
 Para ello y por orden:
 - Creamos un circuito cuántico que actúe sobre el registro
@@ -74,4 +75,10 @@ Para ello y por orden:
 ## Demostración del circuito en el compositor de IBM
 
 ![2022-06-12 23_13_18-](https://user-images.githubusercontent.com/67438760/173253838-63761a02-5fa7-41ff-8212-a51c7fd2add1.png)
+
+
+## Versión en hardware real
+
+Consultar codigo "basic_circuit_real_hardware"
+
 
